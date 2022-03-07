@@ -2,7 +2,8 @@
 
 2022 programing projects for Proccesing and Java
 
-#### Proccesing projects
+## Proccesing projects
+
 
 ### Spacegame
 cool fighter game with stars
@@ -10,5 +11,5 @@ cool fighter game with stars
 [Source Code]()
 
 
-#### Java Projects
+## Java Projects
 
