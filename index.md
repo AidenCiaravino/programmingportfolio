@@ -9,7 +9,7 @@ conatct info: aidenciaravino@icloud.com
 ### Star invaders 
 fighter game where you shoot aliens to defend your star
 
-![Star invaders](images/sic.png)
+![Star invaders](images/Starin.png)
 
 [macos-x86_64.zip](https://github.com/AidenCiaravino/programmingportfolio/files/8771795/macos-x86_64.zip)
 [windows-amd64.zip](https://github.com/AidenCiaravino/programmingportfolio/files/8771797/windows-amd64.zip)
