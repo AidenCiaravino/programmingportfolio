@@ -1,6 +1,8 @@
 # programmingportfolio
 By: Aiden Ciaravino
+
 Contact info: aidenciaravino@icloud.com
+
 
 
 ## Project #1
