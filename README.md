@@ -10,7 +10,7 @@ Contact info: aidenciaravino@icloud.com
 
 [[windows-amd64.zip](https://github.com/AidenCiaravino/programmingportfolio/files/8771730/windows-amd64.zip)
 macos-x86_64.zip](https://github.com/AidenCiaravino/programmingportfolio/files/8771723/macos-x86_64.zip)
-![]()
+![Star invaders](Starin.png)
 
 ## Project 2
 ## Calculator
